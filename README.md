@@ -14,6 +14,8 @@ DJ has worked to streamline development pipelines and practices for many Fortune
 |---|---|
 |[djschleen.com](https://djschleen.com)|My personal website|
 |[YouTube](https://www.youtube.com/channel/UCfpDFDoTA0hyjH2u6ol1ZZg)| Talks, Tutorials, and Demos|
+|[It's 5:05](https://www.youtube.com/playlist?list=PLshKfNjSN3EmoKEvrxreh20-BIsXOE3m0)| It's 5:05 (Podcast)|
+|[Fosstodon](https://fosstodon.com/@djschleen)|My Mastodon account|
 |[https://twitter.com/djschleen](https://twitter.com/djschleen)|My Twitter account|
 |[https://linkedin.com/in/djschleen](https://linkedin.com/in/djschleen)|My Linkedin account|
 |[https://dkfm.io](https://dkfm.io)|DevOps Kung Fu Mafia - An open source community I co-founded. Contains many DevOps and DevSecOps related open source tools|
